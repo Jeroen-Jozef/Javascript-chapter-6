@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7441a34-5e9a-4f3b-82c4-b54f091409d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../01-base/01-var-alert/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/01-var-alert/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-base/02-var-prompt/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/02-var-prompt/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-base/03-prompt-if/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/03-prompt-if/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-base/04-asv-confirm/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/04-asv-confirm/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/01-calculator-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/01-calculator-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/02-calculator-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/02-calculator-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/03-even-square/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/03-even-square/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/03-even-square/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/03-even-square/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/05-factorial/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/05-factorial/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/06-fizzbuzz/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/06-fizzbuzz/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-colors/01-change-bcg-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-colors/01-change-bcg-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-colors/02-change-bcg-two/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-colors/02-change-bcg-two/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-colors/02-change-bcg-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-colors/02-change-bcg-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-colors/03-change-bcg-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-colors/03-change-bcg-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-dates/01-title-by-hour-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-dates/01-title-by-hour-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-dates/02-title-by-hour-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-dates/02-title-by-hour-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-dates/03-age-by-select/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-dates/03-age-by-select/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-dates/03-age-by-select/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-dates/03-age-by-select/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-dates/04-locale-date/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-dates/04-locale-date/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-dates/05-get-spooky-fridays/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-dates/05-get-spooky-fridays/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/01-get-element/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/01-get-element/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/02-manipulate-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/02-manipulate-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/03-walk-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/03-walk-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/04-walk-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/04-walk-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/05-walk-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/05-walk-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/06-find-in-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/06-find-in-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/07-filter-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/07-filter-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/08-array-includes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/08-array-includes/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/09-rand-array-stats/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/09-rand-array-stats/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/10-reduce-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/10-reduce-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-arrays/11-dedupe-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-arrays/11-dedupe-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-select-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-select-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-select-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02-select-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-select-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03-select-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-attr-create/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04-attr-create/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-hover-image/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-hover-image/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-mini-carousel/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../06-mini-carousel/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-generate-table-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../07-generate-table-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-generate-table-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../08-generate-table-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-match-password-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../09-match-password-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-match-password-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../10-match-password-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-change-event-input-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../11-change-event-input-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-misc/01-waving-text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-misc/01-waving-text/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-misc/01-waving-text/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-misc/01-waving-text/script.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1Q8hb2C64y1KRznfxOWyJ0rWX5x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../07-misc/05-worst-ui-three" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7441a34-5e9a-4f3b-82c4-b54f091409d7" name="Default Changelist" comment="" />
+      <created>1567158198251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567158198251</updated>
+      <workItem from="1567158199649" duration="3697000" />
+      <workItem from="1567166335575" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
